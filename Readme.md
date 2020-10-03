@@ -3,7 +3,7 @@
 At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help improve security across the cloud native ecosystem.
 
 ## What is Hacktoberfest?
-For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
+For some people October is a month of beer, and for others (like us) it’s a hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
 
 Many projects and companies participate in Hacktoberfest by encouraging contributions in different ways, like rewarding you with prizes! Take a look at the [Hacktoberfest campaign](https://hacktoberfest.digitalocean.com/) where you can learn more about Hacktoberfest and the participating projects and companies, and apply for more rewards.
 
@@ -35,7 +35,7 @@ Please focus your attention on the following projects:
 ### External contributions
 You can contribute to our projects in many ways besides changes to the code. This year, we're recognizing two types of External Contributions:
 
-**Out of repo**: Some contributions are about integrating our tools with other tools. These integrations might not belong in the main repository of the project  - sometimes it makes more sense to create your own repository for these integration projects. For example: integrating Trivy with a CI system, or integrating the Starboard report with some dashboard tool.
+**Out of repo**: Some contributions are about integrating our tools with other tools. These integrations might not belong in the main repository of the project  - sometimes it makes more sense to create your own repository for these integration projects. Feeling Awesome! isn't it? . For example: integrating Trivy with a CI system, or integrating the Starboard report with some dashboard tool.
 
 **Non-code**: Sometimes Open Source contributions are not about code at all. For example, you could make a video explaining one of our tools, or write an article about how you used it, which creates value and helps the ecosystem just as much as writing code. The content you create can be any of the following categories:
 1. Introduction - present the project for newcomers.
@@ -61,6 +61,8 @@ To get these external contributions recognized for our Hacktoberfest swag prizes
     2. PRs that don't relate to the participating projects are unlikely to be approved, but please feel free to raise ideas here in the [Discussions](https://github.com/aquasecurity/Hacktoberfest/discussions) tab. 
     2. PRs that add meaningful improvements to docs are great! But swag-hunters please note: PRs that make only superficial changes will not be eligible. For example: simply adding or removing punctuation is not eligible, but adding a missing heading into a table of contents or fixing a broken link is eligible. In all cases, there needs to be a corresponding issue for your PR. 
 5. Claim your prize by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u).
+
+All the best👍
 
 ## I have questions
 If you want to discuss a particular contribution, it's best to discuss in context at the  related Github Issue or PR.  

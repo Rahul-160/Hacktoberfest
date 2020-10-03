@@ -1,6 +1,6 @@
 ![logo](./logo.png)
 
-At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help improve security across the cloud native ecosystem.
+At Aqua, we believe open source is an essential part of our success and growth, and that by building our open source community we help the world by improving security across the cloud native ecosystem.
 
 ## What is Hacktoberfest?
 For some people October is a month of beer, and for others (like us) it’s hacking time! Hacktoberfest, named after the famous [German festival Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest), is a wonderful initiative that invites developers from around the world to participate and contribute to Open Source.  
